@@ -1,6 +1,10 @@
 # code-refactor
 <h2>Module 1, Challenge 1 HTML CSS Git Challenge: Code Refactor</h2>
 
+<h3>Identifying Information</h3> <br/>
+Author: Rosanna Rocha<br/>
+Re: UCF Coding Bootcamp <br/>
+
 <h3>Acceptance Criteria: </h3><br/>
 GIVEN a webpage that meets accessibility standards <br/>
 WHEN I view the source code <br/>
