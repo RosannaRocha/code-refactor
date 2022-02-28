@@ -1,7 +1,7 @@
 # code-refactor
 <h2>Module 1, Challenge 1 HTML CSS Git Challenge: Code Refactor</h2>
 
-<h3>Identifying Information</h3> <br/>
+<h3>Identifying Information</h3> 
 Author: Rosanna Rocha<br/>
 Re: UCF Coding Bootcamp <br/>
 
