@@ -19,5 +19,5 @@ WHEN I view the heading attributes <br/>
 THEN I find that they fall in sequential order <br/>
 WHEN I view the title element <br/>
 THEN I find a concise, descriptive title <br/>
-
+<br/><br/>
 <img src="./assets/images/horiseon-screenshot.jpg">
