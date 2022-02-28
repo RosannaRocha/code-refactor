@@ -1,7 +1,7 @@
 # code-refactor
-<h2>Module 1 - Challenge 1 <br/>
+<h2>Module 1 - Challenge 1</h2>
 Focus: HTML CSS Git <br/>
-Challenge: Code Refactor</h2>
+Challenge: Code Refactor<br/>
 
 <h3>Identifying Information</h3> 
 Author: Rosanna Rocha<br/>
@@ -19,3 +19,5 @@ WHEN I view the heading attributes <br/>
 THEN I find that they fall in sequential order <br/>
 WHEN I view the title element <br/>
 THEN I find a concise, descriptive title <br/>
+
+<img src="./assets/images/horiseon-screenshot.jpg">
