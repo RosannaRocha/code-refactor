@@ -1,7 +1,7 @@
 # code-refactor
-Module 1, Challenge 1 HTML CSS Git Challenge: Code Refactor
+<h2>Module 1, Challenge 1 HTML CSS Git Challenge: Code Refactor</h2>
 
-Acceptance Criteria: <br/>
+<h3>Acceptance Criteria: </h3><br/>
 GIVEN a webpage that meets accessibility standards <br/>
 WHEN I view the source code <br/>
 THEN I find semantic HTML elements <br/>
